@@ -10,6 +10,6 @@ notification_object.set_urgency(notify2.URGENCY_CRITICAL)
 while True:
     notification_object.update("Break Time.....","Go and Fresh-up yuor face and eyes..")
     notification_object.show()
-    time.sleep(2)  
+    time.sleep(5)  
     notification_object.close()
-    time.sleep(6)  
+    time.sleep(1200)  
